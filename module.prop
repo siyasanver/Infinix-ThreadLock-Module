@@ -1,0 +1,7 @@
+id=siyas_threadlock_infinix_v3
+name=Infinix Thread-Lock V3 (Unchained + Action)
+version=v3.0-GodMode
+versionCode=3
+author=Siyas
+description=Forces stable 60FPS on Dimensity 6080 for BGMI & KR. Features automatic -20 renice, maximum governor lock, background paralyzer, and manual Action execution.
+updateJson=https://raw.githubusercontent.com/siyas/dummy/main/update.json
